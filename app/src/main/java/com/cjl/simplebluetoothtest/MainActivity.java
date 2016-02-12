@@ -11,6 +11,7 @@ import android.view.MenuItem;
 
 // imported from example at:
 // http://www.tutorialspoint.com/android/android_bluetooth.htm
+// this is a simple test of Bluetooth functions of Android Device
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
